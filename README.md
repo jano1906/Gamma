@@ -1,1 +1,1 @@
-This is gamma game projest for studies
+This is gamma game project for studies
